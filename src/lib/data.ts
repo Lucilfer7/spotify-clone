@@ -224,7 +224,7 @@ export const songs: Song[] = [
     "duration": "1:47"
   },
   {
-    "id": 12,
+    "id": 1,
     "albumId": 2,
     "title": "Break on Through (To the Other Side)",
     "image": albumCovers.TheDoors,
@@ -233,7 +233,7 @@ export const songs: Song[] = [
     "duration": "2:25"
   },
   {
-    "id": 13,
+    "id": 2,
     "albumId": 2,
     "title": "Soul Kitchen",
     "image": albumCovers.TheDoors,
@@ -242,7 +242,7 @@ export const songs: Song[] = [
     "duration": "3:33"
   },
   {
-    "id": 14,
+    "id": 3,
     "albumId": 2,
     "title": "The Crystal Ship",
     "image": albumCovers.TheDoors,
@@ -251,7 +251,7 @@ export const songs: Song[] = [
     "duration": "2:32"
   },
   {
-    "id": 15,
+    "id": 4,
     "albumId": 2,
     "title": "Twentieth Century Fox",
     "image": albumCovers.TheDoors,
@@ -260,7 +260,7 @@ export const songs: Song[] = [
     "duration": "2:31"
   },
   {
-    "id": 16,
+    "id": 5,
     "albumId": 2,
     "title": "Alabama Song (Whisky Bar)",
     "image": albumCovers.TheDoors,
@@ -269,7 +269,7 @@ export const songs: Song[] = [
     "duration": "3:17"
   },
   {
-    "id": 17,
+    "id": 6,
     "albumId": 2,
     "title": "Light My Fire",
     "image": albumCovers.TheDoors,
@@ -278,7 +278,7 @@ export const songs: Song[] = [
     "duration": "7:09"
   },
   {
-    "id": 18,
+    "id": 7,
     "albumId": 2,
     "title": "Back Door Man",
     "image": albumCovers.TheDoors,
@@ -287,7 +287,7 @@ export const songs: Song[] = [
     "duration": "3:32"
   },
   {
-    "id": 19,
+    "id": 8,
     "albumId": 2,
     "title": "I Looked at You",
     "image": albumCovers.TheDoors,
@@ -296,7 +296,7 @@ export const songs: Song[] = [
     "duration": "2:20"
   },
   {
-    "id": 20,
+    "id": 9,
     "albumId": 2,
     "title": "End of the Night",
     "image": albumCovers.TheDoors,
@@ -305,7 +305,7 @@ export const songs: Song[] = [
     "duration": "2:50"
   },
   {
-    "id": 21,
+    "id": 10,
     "albumId": 2,
     "title": "Take It as It Comes",
     "image": albumCovers.TheDoors,
@@ -314,7 +314,7 @@ export const songs: Song[] = [
     "duration": "2:14"
   },
   {
-    "id": 22,
+    "id": 11,
     "albumId": 2,
     "title": "The End",
     "image": albumCovers.TheDoors,
@@ -323,7 +323,7 @@ export const songs: Song[] = [
     "duration": "11:43"
   },
   {
-    "id": 23,
+    "id": 1,
     "albumId": 3,
     "title": "Speak to Me",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -332,7 +332,7 @@ export const songs: Song[] = [
     "duration": "1:05"
   },
   {
-    "id": 24,
+    "id": 2,
     "albumId": 3,
     "title": "Breathe (In the Air)",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -341,7 +341,7 @@ export const songs: Song[] = [
     "duration": "2:49"
   },
   {
-    "id": 25,
+    "id": 3,
     "albumId": 3,
     "title": "On the Run",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -350,7 +350,7 @@ export const songs: Song[] = [
     "duration": "3:45"
   },
   {
-    "id": 26,
+    "id": 4,
     "albumId": 3,
     "title": "Time",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -359,7 +359,7 @@ export const songs: Song[] = [
     "duration": "6:53"
   },
   {
-    "id": 27,
+    "id": 5,
     "albumId": 3,
     "title": "The Great Gig in the Sky",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -368,7 +368,7 @@ export const songs: Song[] = [
     "duration": "7:09"
   },
   {
-    "id": 28,
+    "id": 6,
     "albumId": 3,
     "title": "Money",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -377,7 +377,7 @@ export const songs: Song[] = [
     "duration": "6:22"
   },
   {
-    "id": 29,
+    "id": 7,
     "albumId": 3,
     "title": "Us and Them",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -386,7 +386,7 @@ export const songs: Song[] = [
     "duration": "7:49"
   },
   {
-    "id": 30,
+    "id": 8,
     "albumId": 3,
     "title": "Any Colour You Like",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -395,7 +395,7 @@ export const songs: Song[] = [
     "duration": "3:26"
   },
   {
-    "id": 31,
+    "id": 9,
     "albumId": 3,
     "title": "Brain Damage",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -404,7 +404,7 @@ export const songs: Song[] = [
     "duration": "3:46"
   },
   {
-    "id": 32,
+    "id": 10,
     "albumId": 3,
     "title": "Eclipse",
     "image": albumCovers.TheDarkSideOfTheMoon,
@@ -413,7 +413,7 @@ export const songs: Song[] = [
     "duration": "2:10"
   },
   {
-    "id": 33,
+    "id": 1,
     "albumId": 4,
     "title": "Come Together",
     "image": albumCovers.AbbeyRoad,
@@ -422,7 +422,7 @@ export const songs: Song[] = [
     "duration": "4:19"
   },
   {
-    "id": 34,
+    "id": 2,
     "albumId": 4,
     "title": "Something",
     "image": albumCovers.AbbeyRoad,
@@ -431,7 +431,7 @@ export const songs: Song[] = [
     "duration": "3:02"
   },
   {
-    "id": 35,
+    "id": 3,
     "albumId": 4,
     "title": "Maxwell's Silver Hammer",
     "image": albumCovers.AbbeyRoad,
@@ -440,7 +440,7 @@ export const songs: Song[] = [
     "duration": "3:27"
   },
   {
-    "id": 36,
+    "id": 4,
     "albumId": 4,
     "title": "Oh! Darling",
     "image": albumCovers.AbbeyRoad,
@@ -449,7 +449,7 @@ export const songs: Song[] = [
     "duration": "3:27"
   },
   {
-    "id": 37,
+    "id": 5,
     "albumId": 4,
     "title": "Octopus's Garden",
     "image": albumCovers.AbbeyRoad,
@@ -458,7 +458,7 @@ export const songs: Song[] = [
     "duration": "2:50"
   },
   {
-    "id": 38,
+    "id": 6,
     "albumId": 4,
     "title": "I Want You (She's So Heavy",
     "image": albumCovers.AbbeyRoad,
@@ -467,7 +467,7 @@ export const songs: Song[] = [
     "duration": "7:47"
   },
   {
-    "id": 39,
+    "id": 7,
     "albumId": 4,
     "title": "Here Comes The Sun",
     "image": albumCovers.AbbeyRoad,
@@ -476,7 +476,7 @@ export const songs: Song[] = [
     "duration": "3:05"
   },
   {
-    "id": 40,
+    "id": 8,
     "albumId": 4,
     "title": "Because",
     "image": albumCovers.AbbeyRoad,
@@ -485,7 +485,7 @@ export const songs: Song[] = [
     "duration": "2:45"
   },
   {
-    "id": 41,
+    "id": 9,
     "albumId": 4,
     "title": "You Never Give Me Your Money",
     "image": albumCovers.AbbeyRoad,
@@ -494,7 +494,7 @@ export const songs: Song[] = [
     "duration": "4:02"
   },
   {
-    "id": 42,
+    "id": 10,
     "albumId": 4,
     "title": "Sun King",
     "image": albumCovers.AbbeyRoad,
@@ -503,7 +503,7 @@ export const songs: Song[] = [
     "duration": "2:26"
   },
   {
-    "id": 43,
+    "id": 11,
     "albumId": 4,
     "title": "Mean Mr Mustard",
     "image": albumCovers.AbbeyRoad,
@@ -512,7 +512,7 @@ export const songs: Song[] = [
     "duration": "1:06"
   },
   {
-    "id": 44,
+    "id": 12,
     "albumId": 4,
     "title": "Polythene Pam",
     "image": albumCovers.AbbeyRoad,
@@ -521,7 +521,7 @@ export const songs: Song[] = [
     "duration": "1:12"
   },
   {
-    "id": 45,
+    "id": 13,
     "albumId": 4,
     "title": "She Came Through The Bathroom Window",
     "image": albumCovers.AbbeyRoad,
@@ -530,7 +530,7 @@ export const songs: Song[] = [
     "duration": "1:58"
   },
   {
-    "id": 46,
+    "id": 14,
     "albumId": 4,
     "title": "Goldem Slumbers",
     "image": albumCovers.AbbeyRoad,
@@ -539,7 +539,7 @@ export const songs: Song[] = [
     "duration": "1:31"
   },
   {
-    "id": 47,
+    "id": 15,
     "albumId": 4,
     "title": "Carry That Weight",
     "image": albumCovers.AbbeyRoad,
@@ -548,7 +548,7 @@ export const songs: Song[] = [
     "duration": "1:36"
   },
   {
-    "id": 48,
+    "id": 16,
     "albumId": 4,
     "title": "The End",
     "image": albumCovers.AbbeyRoad,
@@ -557,7 +557,7 @@ export const songs: Song[] = [
     "duration": "2:21"
   },
   {
-    "id": 49,
+    "id": 17,
     "albumId": 4,
     "title": "Her Majesty",
     "image": albumCovers.AbbeyRoad,
@@ -566,7 +566,7 @@ export const songs: Song[] = [
     "duration": "0:25"
   },
   {
-    "id": 50,
+    "id": 1,
     "albumId": 5,
     "title": "Custard Pie",
     "image": albumCovers.PhysicalGraffiti,
@@ -575,7 +575,7 @@ export const songs: Song[] = [
     "duration": "4:15"
   },
   {
-    "id": 51,
+    "id": 2,
     "albumId": 5,
     "title": "The Rover",
     "image": albumCovers.PhysicalGraffiti,
@@ -584,7 +584,7 @@ export const songs: Song[] = [
     "duration": "5:39"
   },
   {
-    "id": 52,
+    "id": 3,
     "albumId": 5,
     "title": "In My Time of Dying",
     "image": albumCovers.PhysicalGraffiti,
@@ -593,7 +593,7 @@ export const songs: Song[] = [
     "duration": "11:08"
   },
   {
-    "id": 53,
+    "id": 4,
     "albumId": 5,
     "title": "Houses of the Holy",
     "image": albumCovers.PhysicalGraffiti,
@@ -602,7 +602,7 @@ export const songs: Song[] = [
     "duration": "4:04"
   },
   {
-    "id": 54,
+    "id": 5,
     "albumId": 5,
     "title": "Trampled Under Foot",
     "image": albumCovers.PhysicalGraffiti,
@@ -611,7 +611,7 @@ export const songs: Song[] = [
     "duration": "5:36"
   },
   {
-    "id": 55,
+    "id": 6,
     "albumId": 5,
     "title": "Kashmir",
     "image": albumCovers.PhysicalGraffiti,
@@ -620,7 +620,7 @@ export const songs: Song[] = [
     "duration": "8:37"
   },
   {
-    "id": 56,
+    "id": 7,
     "albumId": 5,
     "title": "In the Light",
     "image": albumCovers.PhysicalGraffiti,
@@ -629,7 +629,7 @@ export const songs: Song[] = [
     "duration": "8:47"
   },
   {
-    "id": 57,
+    "id": 8,
     "albumId": 5,
     "title": "Bron-Yr Aur",
     "image": albumCovers.PhysicalGraffiti,
@@ -638,7 +638,7 @@ export const songs: Song[] = [
     "duration": "2:06"
   },
   {
-    "id": 58,
+    "id": 9,
     "albumId": 5,
     "title": "Down by the Seaside",
     "image": albumCovers.PhysicalGraffiti,
@@ -647,7 +647,7 @@ export const songs: Song[] = [
     "duration": "5:15"
   },
   {
-    "id": 59,
+    "id": 10,
     "albumId": 5,
     "title": "Ten Years Gone",
     "image": albumCovers.PhysicalGraffiti,
@@ -656,7 +656,7 @@ export const songs: Song[] = [
     "duration": "6:34"
   },
   {
-    "id": 60,
+    "id": 11,
     "albumId": 5,
     "title": "Night Flight",
     "image": albumCovers.PhysicalGraffiti,
@@ -665,7 +665,7 @@ export const songs: Song[] = [
     "duration": "3:38"
   },
   {
-    "id": 61,
+    "id": 12,
     "albumId": 5,
     "title": "The Wanton Song",
     "image": albumCovers.PhysicalGraffiti,
@@ -674,7 +674,7 @@ export const songs: Song[] = [
     "duration": "4:08"
   },
   {
-    "id": 62,
+    "id": 13,
     "albumId": 5,
     "title": "Boogie with Stu",
     "image": albumCovers.PhysicalGraffiti,
@@ -683,7 +683,7 @@ export const songs: Song[] = [
     "duration": "3:52"
   },
   {
-    "id": 63,
+    "id": 14,
     "albumId": 5,
     "title": "Black Country Woman",
     "image": albumCovers.PhysicalGraffiti,
@@ -692,7 +692,7 @@ export const songs: Song[] = [
     "duration": "4:24"
   },
   {
-    "id": 64,
+    "id": 15,
     "albumId": 5,
     "title": "Sick Again",
     "image": albumCovers.PhysicalGraffiti,
@@ -701,7 +701,7 @@ export const songs: Song[] = [
     "duration": "4:42"
   },
   {
-    "id": 65,
+    "id": 1,
     "albumId": 6,
     "title": "Ramble Tamble",
     "image": albumCovers.CosmosFactory,
@@ -710,7 +710,7 @@ export const songs: Song[] = [
     "duration": "7:11"
   },
   {
-    "id": 66,
+    "id": 2,
     "albumId": 6,
     "title": "Before You Accuse Me",
     "image": albumCovers.CosmosFactory,
@@ -719,7 +719,7 @@ export const songs: Song[] = [
     "duration": "3:27"
   },
   {
-    "id": 67,
+    "id": 3,
     "albumId": 6,
     "title": "Travelin' Band",
     "image": albumCovers.CosmosFactory,
@@ -728,7 +728,7 @@ export const songs: Song[] = [
     "duration": "2:08"
   },
   {
-    "id": 68,
+    "id": 4,
     "albumId": 6,
     "title": "Ooby Dobby",
     "image": albumCovers.CosmosFactory,
@@ -737,7 +737,7 @@ export const songs: Song[] = [
     "duration": "2:07"
   },
   {
-    "id": 69,
+    "id": 5,
     "albumId": 6,
     "title": "Lookin' Out My Back Door",
     "image": albumCovers.CosmosFactory,
@@ -746,7 +746,7 @@ export const songs: Song[] = [
     "duration": "2:32"
   },
   {
-    "id": 70,
+    "id": 6,
     "albumId": 6,
     "title": "Run Through The Jungle",
     "image": albumCovers.CosmosFactory,
@@ -755,7 +755,7 @@ export const songs: Song[] = [
     "duration": "3:05"
   },
   {
-    "id": 71,
+    "id": 7,
     "albumId": 6,
     "title": "Up Around The Bend",
     "image": albumCovers.CosmosFactory,
@@ -764,7 +764,7 @@ export const songs: Song[] = [
     "duration": "2:39"
   },
   {
-    "id": 72,
+    "id": 8,
     "albumId": 6,
     "title": "My Baby Left Me",
     "image": albumCovers.CosmosFactory,
@@ -773,7 +773,7 @@ export const songs: Song[] = [
     "duration": "2:19"
   },
   {
-    "id": 73,
+    "id": 9,
     "albumId": 6,
     "title": "Who'll Stop The Rain",
     "image": albumCovers.CosmosFactory,
@@ -782,7 +782,7 @@ export const songs: Song[] = [
     "duration": "2:27"
   },
   {
-    "id": 74,
+    "id": 10,
     "albumId": 6,
     "title": "I Heard It Through The Grapevine",
     "image": albumCovers.CosmosFactory,
@@ -791,7 +791,7 @@ export const songs: Song[] = [
     "duration": "11:07"
   },
   {
-    "id": 75,
+    "id": 11,
     "albumId": 6,
     "title": "Long As I Can See The Light",
     "image": albumCovers.CosmosFactory,
@@ -800,205 +800,205 @@ export const songs: Song[] = [
     "duration": "3:33"
   },
   {
-    "id": 76,
+    "id": 1,
     "albumId": 7,
     "title": "Good Times, Bad Times",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "2:46"
   },
   {
-    "id": 77,
+    "id": 2,
     "albumId": 7,
     "title": "Babe I'm Gonna Leave You",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "6:42"
   },
   {
-    "id": 78,
+    "id": 3,
     "albumId": 7,
     "title": "You Shook Me",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "6:28"
   },
   {
-    "id": 79,
+    "id": 4,
     "albumId": 7,
     "title": "Dazed and Confused",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "6:28"
   },
   {
-    "id": 80,
+    "id": 5,
     "albumId": 7,
     "title": "Your Time is Gonna Come",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "4:34"
   },
   {
-    "id": 81,
+    "id": 6,
     "albumId": 7,
     "title": "Black Mountain Side",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "2:12"
   },
   {
-    "id": 82,
+    "id": 7,
     "albumId": 7,
     "title": "Communication Breakdown",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "2:30"
   },
   {
-    "id": 83,
+    "id": 8,
     "albumId": 7,
     "title": "I Can't Quit You Baby",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "4:42"
   },
   {
-    "id": 84,
+    "id": 9,
     "albumId": 7,
     "title": "How Many More Times",
     "image": albumCovers.LedZeppelin,
     "artists": ["Led Zeppelin"],
     "album": "Led Zeppelin",
-    "duration": "2:07"
+    "duration": "8:27"
   },
   {
-    "id": 85,
+    "id": 1,
     "albumId": 8,
     "title": "White Room",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "4:58"
   },
   {
-    "id": 86,
+    "id": 2,
     "albumId": 8,
     "title": "Sitting On Top Of The World",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "4:58"
   },
   {
-    "id": 87,
+    "id": 3,
     "albumId": 8,
     "title": "Passing The Time",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "4:32"
   },
   {
-    "id": 88,
+    "id": 4,
     "albumId": 8,
     "title": "As You Said",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "4:20"
   },
   {
-    "id": 89,
+    "id": 5,
     "albumId": 8,
     "title": "Pressed Rat And Warthog",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "3:13"
   },
   {
-    "id": 90,
+    "id": 6,
     "albumId": 8,
     "title": "Politician",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "4:11"
   },
   {
-    "id": 91,
+    "id": 7,
     "albumId": 8,
     "title": "Those Were The Days",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "2:53"
   },
   {
-    "id": 92,
+    "id": 8,
     "albumId": 8,
     "title": "Born Under A Bad Sign",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "3:09"
   },
   {
-    "id": 93,
+    "id": 9,
     "albumId": 8,
     "title": "Deserted Cities Of The Heart",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "3:38"
   },
   {
-    "id": 94,
+    "id": 10,
     "albumId": 8,
     "title": "Crossroads (Live)",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "4:18"
   },
   {
-    "id": 95,
+    "id": 11,
     "albumId": 8,
     "title": "Spoonful (Live)",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "16:46"
   },
   {
-    "id": 96,
+    "id": 12,
     "albumId": 8,
     "title": "Traintime (Live)",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "7:01"
   },
   {
-    "id": 97,
+    "id": 13,
     "albumId": 8,
     "title": "Toad (Live)",
     "image": albumCovers.WheelsOfFire,
     "artists": ["Cream"],
     "album": "Wheels Of Fire",
-    "duration": "2:39"
+    "duration": "16:15"
   },
   {
-    "id": 99,
+    "id": 1,
     "albumId": 9,
     "title": "Shine On You Crazy Diamond (Pts. 1-5)",
     "image": albumCovers.WishYouWereHere,
@@ -1007,7 +1007,7 @@ export const songs: Song[] = [
     "duration": "13:31"
   },
   {
-    "id": 100,
+    "id": 2,
     "albumId": 9,
     "title": "Welcome to the Machine",
     "image": albumCovers.WishYouWereHere,
@@ -1016,7 +1016,7 @@ export const songs: Song[] = [
     "duration": "7:31"
   },
   {
-    "id": 101,
+    "id": 3,
     "albumId": 9,
     "title": "Have A Cigar",
     "image": albumCovers.WishYouWereHere,
@@ -1025,7 +1025,7 @@ export const songs: Song[] = [
     "duration": "5:07"
   },
   {
-    "id": 102,
+    "id": 4,
     "albumId": 9,
     "title": "Wish You Were Here",
     "image": albumCovers.WishYouWereHere,
@@ -1034,7 +1034,7 @@ export const songs: Song[] = [
     "duration": "5:34"
   },
   {
-    "id": 103,
+    "id": 5,
     "albumId": 9,
     "title": "Shine On You Crazy Diamond (Pts. 6-9)",
     "image": albumCovers.WishYouWereHere,

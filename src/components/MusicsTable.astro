@@ -1,0 +1,75 @@
+---
+import Time from "@/icons/Time.astro";
+import { Play } from "./Player";
+import { type Song } from "@/lib/data";
+
+interface Props {
+  songs: Song[];
+}
+
+const { songs } = Astro.props;
+---
+
+<table class="table-auto text-left min-w-full divide-y divide-gray-500/20">
+  <thead>
+    <tr class="text-sm text-zinc-400">
+      <th class="px-4 py-2 font-light">#</th>
+      <th class="px-4 py-2 font-light">Title</th>
+      <th class="px-4 py-2 font-light">Album</th>
+      <th class="px-4 py-2 font-light"><Time /></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr class="h-[16px]"></tr>
+    {
+      songs.map((song, index) => (
+        <tr class="song border-separate border-spacing-0 text-sm hover:text-white text-gray-300 font-light hover:bg-white/10 rounded-lg overflow-hidden transition duration-300">
+          <th class="px-4 py-2 rounded-tl-lg rounded-bl-lg w-7 song-number relative">
+            <button title={`Play ${song.title} by ${song.artists.join(", ")}`} class="text-gray-300 absolute left-0 top-0 w-full h-full justify-center items-center play-icon cursor-default">
+              <Play  className="h-4 w-4 text-gray-300 play-icon" />
+            </button>
+            <span class="number">{index + 1}</span>
+          </th>
+          <th class="px-4 py-2 flex gap-3">
+            <picture>
+              <img
+                src={song.image}
+                alt={song.title}
+                class="w-11 h-11"
+              />
+            </picture>
+            <div class="flex flex-col">
+              <h3 class="text-white text-base font-normal cursor-pointer hover:underline" title={song.title}>{song.title}</h3>
+              <span class="cursor-pointer hover:underline font-light">{song.artists.join(", ")}</span>
+            </div>
+          </th>
+          <th class="px-4 py-2 hover:underline cursor-pointer">{song.album}</th>
+          <th class="px-4 py-2 rounded-tr-lg rounded-br-lg font-light text-gray-300">
+            {song.duration}
+          </th>
+        </tr>
+      ))
+    }
+  </tbody>
+</table>
+
+<style>
+  .play-icon {
+    display: none;
+  }
+
+  .number {
+    display: block;
+  }
+
+  .song:hover .play-icon {
+    display: flex;
+  }
+
+  .song:hover .number {
+    display: none;
+  }
+
+  
+</style>
